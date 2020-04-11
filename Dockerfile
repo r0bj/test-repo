@@ -4,24 +4,3 @@ RUN chown -R 65534:65534 /run /var/cache
 
 USER 65534
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
